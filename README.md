@@ -4,7 +4,7 @@ Priprema za "Bootstrap CSS framework"
 
 ## Potrebno uraditi pre koriscenja BCF-a
 
-1. Proveriti da li je NodeJS instaliran na kompu preko CLI-a (Git/CygWin/Terminal/VCS Terminal...) (isto vazi i za Windows/Linux)
+**1. Proveriti da li je NodeJS instaliran na kompu preko CLI-a (Git/CygWin/Terminal/VCS Terminal...) (isto vazi i za Windows/Linux)**
 
 > node -v
 
