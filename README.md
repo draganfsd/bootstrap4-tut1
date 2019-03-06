@@ -49,11 +49,12 @@ Za projekat 001 je potrebno instalirati sledece:**
 
 `> gulp`
 
-## Ostali korisni linkovi 
+## Ostali korisni linkovi  
 
 * **Osnove HTML-a:** http://webarena.rs/uvod-u-html
 * **Osnove CSS-a:** http://webarena.rs/uvod-u-css
 * **Osnove JavaScrip-a:** http://webarena.rs/javascript-jezik-weba
 * **Zvanicna dokumentacija za NPM (Node Package Manager):** https://docs.npmjs.com/
 * **Zvanicna dokumentacija za SASS:** https://sass-lang.com/documentation/file.SASS_REFERENCE.html
+* **Zvanicna dokumentacija za Git:** https://git-scm.com/doc
 
