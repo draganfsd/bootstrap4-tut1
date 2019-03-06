@@ -5,7 +5,7 @@ Za projekat 001 je potrebno instalirati sledece:**
 
 * **NodeJS** ( Node.js je serverska JavaScript platforma pogledati vise o tome na linku https://www.popwebdesign.net/popart_blog/2015/06/sta-je-node-js/ )
 
-* **Visual Code Studio** - ( VCS je programesko okruzenje, pogledati vise o tome na linku http://www.manuelradovanovic.com/2015/05/sta-je-microsoft-visual-studio.html )*
+* **Visual Code Studio** - ( VCS je programesko okruzenje, pogledati vise o tome na linku http://www.manuelradovanovic.com/2015/05/sta-je-microsoft-visual-studio.html )
 
 ## Potrebno uraditi pre koriscenja BCF-a
 
@@ -51,9 +51,9 @@ Za projekat 001 je potrebno instalirati sledece:**
 
 ## Ostali korisni linkovi 
 
-* **Osnove HTML-a:** http://webarena.rs/uvod-u-html*
-* **Osnove CSS-a:** http://webarena.rs/uvod-u-css*
-* **Osnove JavaScrip-a:** http://webarena.rs/javascript-jezik-weba*
-* **Zvanicna dokumentacija za NPM (Node Package Manager):** https://docs.npmjs.com/*
-* **Zvanicna dokumentacija za SASS:** https://sass-lang.com/documentation/file.SASS_REFERENCE.html*
+* **Osnove HTML-a:** http://webarena.rs/uvod-u-html
+* **Osnove CSS-a:** http://webarena.rs/uvod-u-css
+* **Osnove JavaScrip-a:** http://webarena.rs/javascript-jezik-weba
+* **Zvanicna dokumentacija za NPM (Node Package Manager):** https://docs.npmjs.com/
+* **Zvanicna dokumentacija za SASS:** https://sass-lang.com/documentation/file.SASS_REFERENCE.html
 
