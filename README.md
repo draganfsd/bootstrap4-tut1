@@ -58,4 +58,9 @@ Za projekat 001 je potrebno instalirati sledece:**
 * **Zvanicna dokumentacija za SASS:** https://sass-lang.com/documentation/file.SASS_REFERENCE.html
 * **Zvanicna dokumentacija za Git:** https://git-scm.com/doc
 * **Zvanicna dokumentacija za VCS (Visual Code Studio):** https://code.visualstudio.com/docs
+* **Zvanicna dokumentacija za Font Awesome:** https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
+* **Zvanicna dokumentacija za Google Fonts:** https://fonts.google.com/about i https://design.google/library/google-fonts/?utm_source=Google&utm_medium=Fonts&utm_campaign=Article%20Tab
+* **Zvanicna dokumentacija za JSON na Srbskom:** https://www.json.org/json-sr.html
+
+
 
