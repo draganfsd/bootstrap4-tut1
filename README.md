@@ -57,5 +57,5 @@ Za projekat 001 je potrebno instalirati sledece:**
 * **Zvanicna dokumentacija za NPM (Node Package Manager):** https://docs.npmjs.com/
 * **Zvanicna dokumentacija za SASS:** https://sass-lang.com/documentation/file.SASS_REFERENCE.html
 * **Zvanicna dokumentacija za Git:** https://git-scm.com/doc
-* **Zvanicna dokumentacija za VCS (Visual COde Studio):** https://code.visualstudio.com/docs
+* **Zvanicna dokumentacija za VCS (Visual Code Studio):** https://code.visualstudio.com/docs
 
